@@ -1,4 +1,4 @@
-# Olá eu sou o Arthur Emilio 🧑🏻‍💻
+# Olá, eu sou o Arthur Emilio 🧑🏻‍💻
 * Buscando uma vaga como Dev Front-End
  ## Estudando: 
 <div style = "display: inline_block">
