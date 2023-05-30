@@ -1,5 +1,5 @@
    # Olá, eu sou o Arthur Emilio 🧑🏻‍💻
-   Trabalhando como  Software Teste 🔎✔️   
+   Trabalhando como  Software Tester 🔎✔️   
 
   # Estudando:  
 <div style = "display: inline_block">
