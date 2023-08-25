@@ -1,5 +1,5 @@
    # Olá, eu sou o Arthur Emilio 🧑🏻‍💻
-   Trabalhando como  Software Tester 🔎✔️ 
+   Trabalhando como  Software Tester 🔎✔️ <br>
    Graduando em Informática para Negócios 👨‍🎓 
 
   # Estudando:  
