@@ -1,5 +1,6 @@
    # Olá, eu sou o Arthur Emilio 🧑🏻‍💻
-   Trabalho como Desenvolvedor Delphi  <br>
+   Desenvolvedor Delphi  
+<br>
 
   # Estudando:  
 <div style = "display: inline_block">
