@@ -28,7 +28,7 @@
 
 </div> <br/>
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthuremilio&show_icons=true&theme=merko) 
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthuremilio&show_icons=false&theme=merko) 
 
 
 
