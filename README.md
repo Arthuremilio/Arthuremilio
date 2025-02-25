@@ -30,8 +30,8 @@
 </div> <br/>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=Arthuremilio&show_icons=true&theme=merko&hide=prs&rank_icon=github"  height="200" alt="stats graph"  />    
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=Arthuremilio"  height="200" alt="languages graph"  />   
+<img src="https://github-readme-stats.vercel.app/api?username=Arthuremilio&show_icons=true&theme=merko&hide=prs&rank_icon=github"  height="150" alt="stats graph"  />    
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=Arthuremilio"  height="150" alt="languages graph"  />   
 </div>
 
 
