@@ -1,5 +1,4 @@
    # Olá, eu sou o Arthur Fonseca 🧑🏻‍💻
-   Desenvolvedor Delphi  
 <br>
 
   # Estudando:  
