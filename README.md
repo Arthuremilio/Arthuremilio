@@ -1,14 +1,5 @@
-   # Olá, eu sou o Arthur Fonseca 🧑🏻‍💻
-<br>
+# Olá, eu sou o Arthur Fonseca 🧑🏻‍💻
 
-  # Estudando:  
-<div style = "display: inline_block">
-<img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />      
-<img align="center" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="center" alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-
-</div></br>
 
 ## Minhas Redes Sociais:
 
